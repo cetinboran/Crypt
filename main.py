@@ -32,7 +32,3 @@ else:
         print(encrypt(args["string"], args["number"]))
     elif args["decrypt"] != False:
         print(decrypt(args["string"], args["number"]))
-
-
-
-
